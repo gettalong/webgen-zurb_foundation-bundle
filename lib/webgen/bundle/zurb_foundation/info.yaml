@@ -1,0 +1,9 @@
+author: Thomas Leitner <t_leitner@gmx.at>
+summary: webgen extension bundle for ZURB Foundation framework support
+description: |
+  This webgen extension bundle provides the ZURB Foundation framework.
+  It allows the easy inclusion of parts or all of the framework in a
+  webgen website.
+version: 1.0.0
+license: MIT
+homepage: http://github.com/gettalong/webgen-zurb_foundation-bundle
