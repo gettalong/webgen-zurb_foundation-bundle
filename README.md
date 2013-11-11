@@ -5,7 +5,7 @@ version][1] of the [ZURB Foundation][2] CSS framework. This bundle
 allows the easy inclusion of parts or all of the Foundation framework in
 webgen websites.
 
-[webgen]: http://webgen.rubyforge.org
+[webgen]: http://webgen.gettalong.org
 [1]: https://github.com/zurb/foundation/tree/scss-standalone
 [2]: http://foundation.zurb.com/
 
